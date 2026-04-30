@@ -1,0 +1,22 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.AnchorRegistry/ar-mcp",
+  "title": "AnchorRegistry",
+  "description": "On-chain provenance lookup for AnchorRegistry. Resolve AR-IDs, hashes, and full trees. Authless.",
+  "repository": {
+    "url": "https://github.com/anchorregistry/ar-mcp",
+    "source": "github"
+  },
+  "version": "0.1.0",
+  "websiteUrl": "https://anchorregistry.com",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.anchorregistry.ai/mcp"
+    },
+    {
+      "type": "sse",
+      "url": "https://mcp.anchorregistry.ai/sse"
+    }
+  ]
+}
