@@ -7,6 +7,7 @@ provenance tree from any MCP-compatible AI client.
 [![MCP](https://img.shields.io/badge/MCP-2024--11--05-6ea8ff)](https://modelcontextprotocol.io)
 [![Cloudflare Workers](https://img.shields.io/badge/Cloudflare-Workers-f38020)](https://workers.cloudflare.com)
 [![smithery badge](https://smithery.ai/badge/ic3moore/anchorregistry)](https://smithery.ai/servers/ic3moore/anchorregistry)
+[![arXiv](https://img.shields.io/badge/arXiv-2604.03434-b31b1b.svg)](https://arxiv.org/abs/2604.03434)
 
 Endpoint: `https://mcp.anchorregistry.ai/mcp`
 
